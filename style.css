@@ -1,0 +1,16 @@
+.color1 {
+  color: rgb(78, 69, 121);
+}
+
+.container {
+  min-width: 1000px;
+}
+
+.hover1:hover {
+  background-color: gray;
+  padding: 5px;
+}
+
+.button1 {
+  background-color:  rgb(78, 69, 121);
+}
