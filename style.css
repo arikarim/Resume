@@ -13,7 +13,16 @@ body {
 
 .hover1:hover {
   background-color:#997404;
+  color: white;
+  border-radius: 50px;
   padding: 0px 5px 0px 5px;
+}
+
+.hover22:hover {
+  background-color:#997404;
+  color: white;
+  border-radius: 50px;
+  padding: 5px 5px 5px 5px;
 }
 
 .button1 {
