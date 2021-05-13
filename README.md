@@ -2,7 +2,7 @@
 
 
 This is my Resume page.<br>
-have a look around:)).
+have a look around:).
 
 ![screenshot](assets/screen.png)
 
